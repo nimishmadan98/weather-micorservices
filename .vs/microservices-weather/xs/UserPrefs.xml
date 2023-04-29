@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{DCC94F00-A319-4AE2-B1FB-1EF6BEAF533B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="cloudWeather.Precipitation/Program.cs">
+    <Files>
+      <File FileName="cloudWeather.Temperature/Program.cs" Line="6" Column="1" />
+      <File FileName="cloudWeather.Report/Program.cs" Line="6" Column="1" />
+      <File FileName="cloudWeather.Precipitation/Program.cs" Line="6" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="microservices-weather" expanded="True">
+            <Node name="cloudWeather.DataLoader" expanded="True" />
+            <Node name="cloudWeather.Precipitation" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="cloudWeather.Report" expanded="True" />
+            <Node name="cloudWeather.Temperature" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.cloudWeather.DataLoader PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
